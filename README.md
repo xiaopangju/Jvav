@@ -1,5 +1,5 @@
 # Jvav
-注意：这是一个梗，并非真实存在的编程语言。(但提供可下载的简易命令行程序)   
+注意：这是一个梗，并非真实存在的编程语言。   
 未经TZG-official允许，禁止在jvav.top以外的任何地方使用这些代码。
 ## 梗来源
 ```
@@ -12,7 +12,7 @@
 * 请将页面的代码进行整理，并在Pull Request时附带缩进。（非硬性要求）
 * 请将页面的 title 修改为 ``` (页面名称) - Jvav ```
 * 在新增页面时，请注意所需的资源是否存在。若不存在，请直接将资源链接到Java.com或将资源文件下载。
-* 请在每一页的</head>前增加用于统计的 Matomo 代码。
+* 请在每一页的```</head>```前增加用于统计的 Matomo 代码。
 ```
 <!-- Matomo -->
 <script type="text/javascript">
@@ -29,5 +29,7 @@
   })();
 </script>
 <!-- End Matomo Code -->
+<script data-ad-client="ca-pub-3608182058895727" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script async defer src="https://buttons.github.io/buttons.js"></script>
 ```
 * 请勿将文案修改的过于生硬。毕竟这是一个梗，好玩最重要。
