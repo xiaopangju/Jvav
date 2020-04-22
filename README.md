@@ -34,6 +34,6 @@
 ```
 * 请勿将文案修改的过于生硬。毕竟这是一个梗，好玩最重要。
 ## 特别声明
-我们仅制作了 Jvav.top 网站和 Jvav Windows 版本。它们的仓库分别位于 TZG-official/Jvav 和 TZG-official/Jvav-Windows.   
+我们仅制作了 Jvav.top 网站和 Jvav Windows 版本。它们的仓库分别位于 [TZG-official/Jvav](https://github.com/TZG-official/Jvav/) 和 [TZG-official/Jvav-Windows](https://github.com/TZG-official/Jvav-Windows/).   
 我们并没有制作除这两个以外的其他项目。   
 「这仅仅是一个梗，而并非是一个真实存在的编程语言。」
