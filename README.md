@@ -1,6 +1,6 @@
 # Jvav
 注意：这是一个梗，并非真实存在的编程语言。   
-未经TZG-official允许，禁止在jvav.top以外的任何地方使用这些代码。
+未经TZG-official允许，禁止在Jvav.top以外的任何地方使用这些代码。
 ## 梗来源
 ```
 这个是最近新起的一个梗，大约是一个小孩子实名上网，并且说我会Jvav，这个Jvav打错了，就被做成了梗hhh
@@ -33,3 +33,7 @@
 <script async defer src="https://buttons.github.io/buttons.js"></script>
 ```
 * 请勿将文案修改的过于生硬。毕竟这是一个梗，好玩最重要。
+## 特别声明
+我们仅制作了 Jvav.top 网站和 Jvav Windows 版本。它们的仓库分别位于 TZG-official/Jvav 和 TZG-official/Jvav-Windows.   
+我们并没有制作除这两个以外的其他项目。   
+「这仅仅是一个梗，而并非是一个真实存在的编程语言。」
