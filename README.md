@@ -4,7 +4,7 @@
 ## 梗来源
 ```
 这个是最近新起的一个梗，大约是一个小孩子实名上网，并且说我会 Jvav，这个 Jvav 打错了，就被做成了梗 hhh
-梗出处:China2B2T MC 服务器交流群
+梗出处:China2B2T MC服务器交流群
 ```
 ## 贡献指南
 如果你想为此网站添砖Jvav，增加更多的页面，请注意以下几点，否则您提交的 Pull Request 很有可能会被我们拒绝。
@@ -13,7 +13,6 @@
 * 请将页面的 title 修改为 ``` (页面名称) - Jvav ```
 * 在新增页面时，请注意所需的资源是否存在。若不存在，请直接将资源链接到 Java.com 或将资源文件下载。
 * 请在每一页的 ```</head>``` 前增加用于统计的 Matomo 代码。
-``` html
 <!-- Matomo -->
 <script type="text/javascript">
   var _paq = window._paq || [];
