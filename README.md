@@ -13,6 +13,7 @@
 * 请将页面的 title 修改为 ``` (页面名称) - Jvav ```
 * 在新增页面时，请注意所需的资源是否存在。若不存在，请直接将资源链接到 Java.com 或将资源文件下载。
 * 请在每一页的 ```</head>``` 前增加用于统计的 Matomo 代码。
+```
 <!-- Matomo -->
 <script type="text/javascript">
   var _paq = window._paq || [];
