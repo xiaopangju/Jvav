@@ -4,7 +4,7 @@
 */
 console.log ("Jvav 网页 by TZG-Official")
 var httpRequest = new XMLHttpRequest();
-httpRequest.open('GET', "https://api.tzg6.com/api/jvav-version", true);
+httpRequest.open('GET', "https://jvav.tzg.workers.dev", true);
 httpRequest.send();
 httpRequest.onreadystatechange = function () {
     if (httpRequest.readyState == 4 && httpRequest.status == 200) {
