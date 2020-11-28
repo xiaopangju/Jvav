@@ -6,21 +6,15 @@
 * 在新增页面时，请注意所需的资源是否存在。若不存在，请直接将资源链接到 Java.com 或将资源文件下载。
 * 请在每一页的 ```</head>``` 前增加用于统计的 Matomo 代码。
 ```
-<!-- Matomo -->
-<script type="text/javascript">
-  var _paq = window._paq || [];
-  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
-  _paq.push(['trackPageView']);
-  _paq.push(['enableLinkTracking']);
-  (function() {
-    var u="//s.tzg6.com/";
-    _paq.push(['setTrackerUrl', u+'matomo.php']);
-    _paq.push(['setSiteId', '13']);
-    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
-    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
-  })();
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-2CX6QXDT1P"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-2CX6QXDT1P');
 </script>
-<!-- End Matomo Code -->
 <script data-ad-client="ca-pub-3608182058895727" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <script async defer src="https://buttons.github.io/buttons.js"></script>
 ```
