@@ -1,0 +1,1 @@
+define({select_lang:"Select Language",Search:"Search"});
