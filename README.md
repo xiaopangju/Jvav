@@ -1,4 +1,8 @@
 # Jvav
+
+
+[English README](https://github.com/orangezsclite/Jvav/blob/master/README.en.md)
+
 注意：这是一个梗，并非真实存在的编程语言。   
 未经TZG-official允许，禁止在jvav.top以外的任何地方使用这些代码。
 
