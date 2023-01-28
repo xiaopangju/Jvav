@@ -1,6 +1,12 @@
 # Jvav
+
+
+[English README](https://github.com/orangezsclite/Jvav/blob/master/README.en.md)
+
 注意：这是一个梗，并非真实存在的编程语言。   
 未经TZG-official允许，禁止在jvav.top以外的任何地方使用这些代码。
+
+此为TZG-official制作的网站，OrangeZSCLITE只是重现（fork）
 ## 梗来源
 ```
 这个是最近新起的一个梗，大约是一个小孩子实名上网，并且说我会Jvav，这个Jvav打错了，就被做成了梗hhh
